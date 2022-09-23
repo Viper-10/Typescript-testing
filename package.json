@@ -1,0 +1,19 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "Typescript testing p",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open "
+  },
+  "keywords": [
+    "cypress",
+    "typescript"
+  ],
+  "author": "Priyadharshan",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.8.0",
+    "typescript": "^4.8.3"
+  }
+}
